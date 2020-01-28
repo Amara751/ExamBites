@@ -1,0 +1,2 @@
+pixtica
+open camera
